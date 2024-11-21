@@ -1,0 +1,46 @@
+[
+    {
+        "id": 29,
+        "rank": 1,
+        "team_name": "領航猿",
+        "games_played": 4,
+        "wins": 3,
+        "losses": 1,
+        "pct": "75%",
+        "games_behind": "0",
+        "wins_losses_streak": "101.8"
+    },
+    {
+        "id": 30,
+        "rank": 2,
+        "team_name": "勇士",
+        "games_played": 4,
+        "wins": 2,
+        "losses": 2,
+        "pct": "50%",
+        "games_behind": "1",
+        "wins_losses_streak": "98.3"
+    },
+    {
+        "id": 31,
+        "rank": 3,
+        "team_name": "鋼鐵人",
+        "games_played": 1,
+        "wins": 0,
+        "losses": 1,
+        "pct": "0%",
+        "games_behind": "3",
+        "wins_losses_streak": "93"
+    },
+    {
+        "id": 32,
+        "rank": 3,
+        "team_name": "獵鷹",
+        "games_played": 1,
+        "wins": 0,
+        "losses": 1,
+        "pct": "0%",
+        "games_behind": "3",
+        "wins_losses_streak": "92"
+    }
+]

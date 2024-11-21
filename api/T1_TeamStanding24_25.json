@@ -1,0 +1,79 @@
+[
+    {
+        "id": 15,
+        "rank": 1,
+        "team_name": "福爾摩沙夢想家",
+        "games_played": 6,
+        "wins": 5,
+        "losses": 1,
+        "pct": "1.109",
+        "games_behind": "0",
+        "wins_losses_streak": "W3"
+    },
+    {
+        "id": 16,
+        "rank": 2,
+        "team_name": "新北國王",
+        "games_played": 5,
+        "wins": 3,
+        "losses": 2,
+        "pct": "1.078",
+        "games_behind": "1.5",
+        "wins_losses_streak": "L1"
+    },
+    {
+        "id": 17,
+        "rank": 3,
+        "team_name": "高雄全家海神",
+        "games_played": 6,
+        "wins": 3,
+        "losses": 3,
+        "pct": "1.006",
+        "games_behind": "2",
+        "wins_losses_streak": "L2"
+    },
+    {
+        "id": 18,
+        "rank": 4,
+        "team_name": "新北中信特攻",
+        "games_played": 4,
+        "wins": 2,
+        "losses": 2,
+        "pct": "0.973",
+        "games_behind": "2",
+        "wins_losses_streak": "L1"
+    },
+    {
+        "id": 19,
+        "rank": 5,
+        "team_name": "新竹御嵿攻城獅",
+        "games_played": 5,
+        "wins": 2,
+        "losses": 3,
+        "pct": "0.948",
+        "games_behind": "2.5",
+        "wins_losses_streak": "L1"
+    },
+    {
+        "id": 20,
+        "rank": 6,
+        "team_name": "桃園台啤永豐雲豹",
+        "games_played": 3,
+        "wins": 1,
+        "losses": 2,
+        "pct": "0.913",
+        "games_behind": "2.5",
+        "wins_losses_streak": "L1"
+    },
+    {
+        "id": 21,
+        "rank": 7,
+        "team_name": "臺北台新戰神",
+        "games_played": 5,
+        "wins": 1,
+        "losses": 4,
+        "pct": "0.922",
+        "games_behind": "3.5",
+        "wins_losses_streak": "W1"
+    }
+]

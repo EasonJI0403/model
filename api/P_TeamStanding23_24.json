@@ -1,0 +1,68 @@
+[
+  {
+    "id": 7,
+    "rank": 1,
+    "team_name": "桃園璞園領航猿",
+    "games_played": 40,
+    "wins": 26,
+    "losses": 14,
+    "pct": "65%",
+    "games_behind": "0",
+    "wins_losses_streak": "W1"
+  },
+  {
+    "id": 8,
+    "rank": 2,
+    "team_name": "福爾摩沙夢想家",
+    "games_played": 40,
+    "wins": 24,
+    "losses": 16,
+    "pct": "60%",
+    "games_behind": "2",
+    "wins_losses_streak": "L2"
+  },
+  {
+    "id": 9,
+    "rank": 3,
+    "team_name": "新北國王",
+    "games_played": 40,
+    "wins": 22,
+    "losses": 18,
+    "pct": "55%",
+    "games_behind": "4",
+    "wins_losses_streak": "W1"
+  },
+  {
+    "id": 10,
+    "rank": 4,
+    "team_name": "新竹御頂攻城獅",
+    "games_played": 40,
+    "wins": 21,
+    "losses": 19,
+    "pct": "53%",
+    "games_behind": "5",
+    "wins_losses_streak": "W3"
+  },
+  {
+    "id": 11,
+    "rank": 5,
+    "team_name": "臺北富邦勇士",
+    "games_played": 40,
+    "wins": 18,
+    "losses": 22,
+    "pct": "45%",
+    "games_behind": "8",
+    "wins_losses_streak": "L1"
+  },
+  {
+    "id": 12,
+    "rank": 6,
+    "team_name": "高雄17直播鋼鐵人",
+    "games_played": 40,
+    "wins": 9,
+    "losses": 31,
+    "pct": "23%",
+    "games_behind": "17",
+    "wins_losses_streak": "L6"
+  }
+]
